@@ -23,4 +23,4 @@ puts "Story website is: #{story_website}"
 #   puts "#{title} - #{price}"
 #   puts item.at_css(".prodLink")[:href]
 # end
-# xxxx
+# xxxxxx
