@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9691fd7-f907-49a5-993c-d2a4c71e4ef2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/display_url_info.rake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sap1.iws" />
@@ -657,7 +654,11 @@
       <created>1403814607256</created>
       <updated>1403814607256</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding static pages">
+      <created>1403844153874</created>
+      <updated>1403844153874</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,7 +702,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="adding nokogiri.rb" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding nokogiri.rb" />
+    <MESSAGE value="adding static pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding static pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
